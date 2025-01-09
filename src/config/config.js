@@ -7,7 +7,7 @@ const sequelize = new Sequelize(
     {
         host:"localhost",
         dialect:"postgres",
-        logging:true,
+        logging:console.log,
         port:process.env.DB_PORT
     }
 
