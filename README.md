@@ -12,5 +12,4 @@
     - `DB_PORT=5432`
     - `JWT_SECRET="8&93v&v3@bedhd8HBHWG"`
     - `JWT_EXPIRE="1h"`
-- Inside the `src/config` folder create a new file `config.js` and then add the following databases configuration
 
